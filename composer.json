@@ -1,0 +1,19 @@
+{
+  "name": "nima/AgGridBundle",
+  "description": "Symfony 5 bundle integrating agGrid",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "keywords": [
+    "symfony agGrid bundle"
+  ],
+  "authors": [
+    {
+      "name": "stefan",
+      "email": "stefan@nimasoftware.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "symfony/framework-bundle": "5.*"
+  }
+}
